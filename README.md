@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hardikchhipa28@gmail.com, hc8294@srmist.edu.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1a2PSt5TGJyseTMHdkg7DH-7zpt67W2Hf/edit?usp=sharing&ouid=102867067034935378743&rtpof=true&sd=true](https://docs.google.com/document/d/1a2PSt5TGJyseTMHdkg7DH-7zpt67W2Hf/edit?usp=sharing&ouid=102867067034935378743&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1a2PSt5TGJyseTMHdkg7DH-7zpt67W2Hf/edit?usp=sharing&ouid=102867067034935378743&rtpof=true&sd=true](https://github.com/FRAGGERR/My-Resume)
 
 - ⚡ Fun fact **You can ask any help related to my Projects.**
 
