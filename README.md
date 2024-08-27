@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARDIK CHHIPA</h1>
-<h3 align="center">Passionate machine learning enthusiast with a strong interest in machine learning, computer vision, and data analysis. Committed to driving impactful real-world solutions through a blend of creativity and developing technical expertise in AI technologies as a Student.</h3>
+<h3 align="center">Passionate machine learning enthusiast with a strong interest in Machine Learning, Computer Vision, and Data Analysis. Committed to driving impactful real-world solutions through a blend of creativity and developing technical expertise in AI technologies as a Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraggerr&label=Profile%20views&color=0e75b6&style=flat" alt="fraggerr" /> </p>
 
