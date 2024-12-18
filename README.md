@@ -41,6 +41,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraggerr&" alt="fraggerr" /></p>
 
+
+
+
+
 * * *
 #### **Hardik Chhipa**  
 BTech CSE | Aspiring Data Scientist  
@@ -51,6 +55,6 @@ SRM University, Chennai
 
 * * *
 
-Sent with ❤️ from my Jupyter Notebook
+Sent with ❤️ from my Github
 
 
