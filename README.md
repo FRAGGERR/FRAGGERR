@@ -45,3 +45,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraggerr&show_icons=true&locale=en" alt="fraggerr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraggerr&" alt="fraggerr" /></p>
+
+* * *
+#### **Hardik Chhipa**  
+BTech CSE | Aspiring Data Scientist  
+Machine Learning & Deep Learning Enthusiast  
+SRM University, Chennai
+
+📧 [hardikchhipa28@gmail.com](mailto:hardikchhipa28@gmail.com)      📱 [+91 9460626737](tel:+919460626737)     🌐 [GitHub: FRAGGERR](https://github.com/FRAGGERR)    🔗 [LinkedIn: Hardik Chhipa](https://www.linkedin.com/in/hardik-chhipa-303040242/)
+
+* * *
+
+Sent with ❤️ from my Jupyter Notebook
+
+
