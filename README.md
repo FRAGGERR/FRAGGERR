@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARDIK CHHIPA</h1>
 <h3 align="center">Passionate machine learning enthusiast with a strong interest in Machine Learning, Computer Vision, and Data Analysis. Committed to driving impactful real-world solutions through a blend of creativity and developing technical expertise in AI technologies as a Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraggerr&label=Profile%20views&color=0e75b6&style=flat" alt="fraggerr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraggerr" alt="fraggerr" /></a> </p>
 
@@ -13,11 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Diabetic-Retinopathy](git@github.com:FRAGGERR/Diabetic-Retinopathy.git)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hardik-chhipa-303040242/](https://www.linkedin.com/in/hardik-chhipa-303040242/)
-
 - 💬 Ask me about **Machine Learning, Pandas, NumPy, Pytorch, Matplotlib**
-
-- 📫 How to reach me **hardikchhipa28@gmail.com, hc8294@srmist.edu.in**
 
 - 📄 Know about my experiences [My-Resume](https://github.com/FRAGGERR/My-Resume)
 
