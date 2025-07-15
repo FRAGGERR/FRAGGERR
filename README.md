@@ -2,7 +2,7 @@
 <h3 align="center">Passionate machine learning enthusiast with a strong interest in Machine Learning, Computer Vision, and Data Analysis. Committed to driving impactful real-world solutions through a blend of creativity and developing technical expertise in AI technologies as a Student.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraggerr" alt="fraggerr" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@hardikchhipa" target="blank"><img src="https://img.shields.io/twitter/follow/hardikchhipa?logo=twitter&style=for-the-badge" alt="hardikchhipa" /></a> </p>
 
