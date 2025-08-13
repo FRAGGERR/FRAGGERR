@@ -41,8 +41,6 @@
 
 
 
-[![Holopin](https://holopin.onrender.com/fraggerr)](https://holopin.io/@fraggerr)
-
 
 
 * * *
